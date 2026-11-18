@@ -1,0 +1,77 @@
+name,type,county,combined_rate,reporting_code,mctd,as_of_date
+Albany,County,,8,0181,false,2025-03-01
+Allegany,County,,8.5,0221,false,2025-03-01
+Broome,County,,8,0321,false,2025-03-01
+Cattaraugus,County,,8,0481,false,2025-03-01
+Olean,City,Cattaraugus,8,0441,false,2025-03-01
+Salamanca,City,Cattaraugus,8,0431,false,2025-03-01
+Cayuga,County,,8,0511,false,2025-03-01
+Auburn,City,Cayuga,8,0561,false,2025-03-01
+Chautauqua,County,,8,0651,false,2025-03-01
+Chemung,County,,8,0711,false,2025-03-01
+Chenango,County,,8,0861,false,2025-03-01
+Norwich,City,Chenango,8,0831,false,2025-03-01
+Clinton,County,,8,0921,false,2025-03-01
+Columbia,County,,8,1021,false,2025-03-01
+Cortland,County,,8,1131,false,2025-03-01
+Delaware,County,,8,1221,false,2025-03-01
+Dutchess,County,,8.125,1311,true,2025-03-01
+Erie,County,,8.75,1451,false,2025-03-01
+Essex,County,,8,1521,false,2025-03-01
+Franklin,County,,8,1621,false,2025-03-01
+Fulton,County,,8,1791,false,2025-03-01
+Gloversville,City,Fulton,8,1741,false,2025-03-01
+Johnstown,City,Fulton,8,1751,false,2025-03-01
+Genesee,County,,8,1811,false,2025-03-01
+Greene,County,,8,1911,false,2025-03-01
+Hamilton,County,,8,2011,false,2025-03-01
+Herkimer,County,,8.25,2121,false,2025-03-01
+Jefferson,County,,8,2221,false,2025-03-01
+Lewis,County,,8,2321,false,2025-03-01
+Livingston,County,,8,2411,false,2025-03-01
+Madison,County,,8,2511,false,2025-03-01
+Oneida,City,Madison,8,2541,false,2025-03-01
+Monroe,County,,8,2611,false,2025-03-01
+Montgomery,County,,8,2781,false,2025-03-01
+Nassau,County,,8.625,2811,true,2025-03-01
+New York City,City,,8.875,8081,true,2025-03-01
+Niagara,County,,8,2911,false,2025-03-01
+Oneida,County,,8.75,3010,false,2025-03-01
+Rome,City,Oneida,8.75,3015,false,2025-03-01
+Utica,City,Oneida,8.75,3018,false,2025-03-01
+Onondaga,County,,8,3121,false,2025-03-01
+Ontario,County,,7.5,3211,false,2025-03-01
+Orange,County,,8.125,3321,true,2025-03-01
+Orleans,County,,8,3481,false,2025-03-01
+Oswego,County,,8,3501,false,2025-03-01
+Oswego,City,Oswego,8,3561,false,2025-03-01
+Otsego,County,,8,3621,false,2025-03-01
+Putnam,County,,8.375,3731,true,2025-03-01
+Rensselaer,County,,8,3881,false,2025-03-01
+Rockland,County,,8.375,3921,true,2025-03-01
+St. Lawrence,County,,8,4091,false,2025-03-01
+Ogdensburg,City,St. Lawrence,8,4012,false,2025-03-01
+Saratoga,County,,7,4111,false,2025-03-01
+Saratoga Springs,City,Saratoga,7,4131,false,2025-03-01
+Schenectady,County,,8,4241,false,2025-03-01
+Schoharie,County,,8,4321,false,2025-03-01
+Schuyler,County,,8,4411,false,2025-03-01
+Seneca,County,,8,4511,false,2025-03-01
+Steuben,County,,8,4691,false,2025-03-01
+Suffolk,County,,8.75,4711,true,2025-03-01
+Sullivan,County,,8,4821,false,2025-03-01
+Tioga,County,,8,4921,false,2025-03-01
+Tompkins,County,,8,5081,false,2025-03-01
+Ithaca,City,Tompkins,8,5021,false,2025-03-01
+Ulster,County,,8,5111,false,2025-03-01
+Warren,County,,7,5281,false,2025-03-01
+Glens Falls,City,Warren,7,5211,false,2025-03-01
+Washington,County,,7,5311,false,2025-03-01
+Wayne,County,,8,5421,false,2025-03-01
+Westchester,County,,8.375,5581,true,2025-03-01
+Mount Vernon,City,Westchester,8.375,5521,true,2025-03-01
+New Rochelle,City,Westchester,8.375,6861,true,2025-03-01
+White Plains,City,Westchester,8.375,6513,true,2025-03-01
+Yonkers,City,Westchester,8.875,6511,true,2025-03-01
+Wyoming,County,,8,5621,false,2025-03-01
+Yates,County,,8,5721,false,2025-03-01

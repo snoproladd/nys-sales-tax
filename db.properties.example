@@ -1,0 +1,4 @@
+# Copy this file to db.properties (git-ignored) and fill in your password.
+db.url=jdbc:postgresql://localhost:5432/nys_tax?currentSchema=sales_tax
+db.user=salestax_app
+db.password=your_password_here

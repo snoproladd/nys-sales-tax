@@ -1,0 +1,8 @@
+# Maven build output
+target/
+
+# Editor settings
+.vscode/
+
+# Local database credentials (never commit)
+db.properties
